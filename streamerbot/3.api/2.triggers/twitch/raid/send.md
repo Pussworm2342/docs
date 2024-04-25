@@ -7,12 +7,12 @@ variables:
   - name: raidUser
     type: string
     description: The raider's username
-    value: TwitchUser123
-  - name: raidUserName
+    value: lilgraygray2000
+  - name: lilgraygray2000
     type: string
     description: The raider's login name
-    value: twitchuser123
-  - name: raidUserId
+    value: nemo_vxbez
+  - name: lilgraygray2000
     type: string
     description: The raider's user id
     value: 718933593
